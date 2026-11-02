@@ -109,32 +109,9 @@ For example:
 C:\Users\YourName\Desktop\STUDENT PERFORMANCE PREDICTOR
 ```
 
-### Step 3: Rename the Files
+### Step 3: Check the Files
 
-Rename the Python file:
-
-``` text
-Student (1) (1).py
-```
-
-to:
-
-``` text
-app.py
-```
-
-Rename the dataset:
-
-``` text
-cleaned_student_data (2).csv
-```
-
-to:
-
-``` text
-cleaned_student_data.csv
-```
-
+Make sure the name of the Python file and dataset is similar.
 Make sure both files are in the same project folder.
 
 ### Step 4: Open the Project in VS Code
